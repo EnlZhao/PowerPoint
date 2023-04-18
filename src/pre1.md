@@ -15,6 +15,9 @@ verticalSeparator: <!--v-->
 
 ## Roles
 
+<!--v-->
+<!-- .slide: data-background="./img/CareerPre/whole.jpg" -->
+
 * 优柔寡断 · 领导 —— 戴安澜 
 
 * 高傲自大 · 领导 —— 肖嘉宇 
@@ -26,4 +29,7 @@ verticalSeparator: <!--v-->
 * 年轻识浅 · 新人 —— 赵恒
 
 <!--s-->
+
+## Background
+ 
 
