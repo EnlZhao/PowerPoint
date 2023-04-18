@@ -35,7 +35,7 @@ NickName: 呆呆维
 <!-- .slide: data-background="./gif/呆呆维2.gif" -->
 
 * 呆呆老板
-  * 笨蛋美女
+  * 集美貌、才华、呆于一身
   * “好笨，像你一样”
 
 ```cpp [9|10]
