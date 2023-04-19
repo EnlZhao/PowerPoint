@@ -45,8 +45,7 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 <!--v-->
 
 <!-- .slide: data-background="./img/CareerPre/whole.jpg" data-background-opacity="0.2"-->
-<br>
-<br>
+<br><br>
 
 * 优柔寡断 · 领导 —— 戴安澜 | 戴总监
 
@@ -58,14 +57,11 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 
 * 年轻识浅 · 新人 —— 赵 恒 | 小赵
 
-<br>
-<br>
+<br><br>
 
-<div align="left">
-    ​<audio id="audio" controls="" preload="none">
+​<audio id="audio" preload="auto"  controls>
         <source src="./mp3/info.mp3">
-    </audio>
-</div>
+</audio>
 
 <!--s-->
 
@@ -137,16 +133,18 @@ pat pat ······
 <!--v-->
 
 <!-- .slide: data-background="./gif/CareerPre/speechless.gif" data-background-opacity="0.3" data-background-size="90% auto"  --->
+<br><br><br><br><br>
 
 刘姐内心 OS: 离我远点、离我远点、离我远点 ······
-​
-<audio id="audio" controls="" preload="none">
-    <source src="./mp3/role2.mp3">
-</audio>
 
-<audio id="audio" controls="" preload="none">
-    <source src="./mp3/role5.mp3">
-</audio>
+​<br><br><br><br><br>
+<div style="float:left">
+    <audio src="./mp3/role2.mp3" id="audio" controls></audio>
+</div>
+
+<div style="float:right">
+    <audio src="./mp3/role5.mp3" id="audio" controls></audio>
+</div>
 
 <!--s-->
 
@@ -170,9 +168,11 @@ Thirty minutes later ······
 <!--v-->
 
 <!-- .slide: data-background="./gif/CareerPre/leader2-2.gif" data-background-opacity="0.3" data-background-size="80% auto" --->
+<br><br><br><br>
 
 肖副总内心 OS: 没想到啊，还懂网球，小伙子不赖，有前途······
 
+<br><br><br><br><br>
 <audio id="audio" controls="" preload="none">
     <source src="./mp3/role6.mp3">
 </audio>
