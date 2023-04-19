@@ -5,10 +5,22 @@ separator: <!--s-->
 verticalSeparator: <!--v-->
 ---
 # Hello
+<br>
 
 ## Try something new
 
+<br>
+
 A PowerPoint made by reveal-md
+
+<br>
+<br>
+
+<font size="4px">
+
+Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="noopener">Enl_Z</a> 
+
+</font>
 
 <!--s-->
 

@@ -4,13 +4,22 @@ theme: serif
 separator: <!--s-->
 verticalSeparator: <!--v-->
 ---
+<br>
 
 # 职场共事
 
 <br><br>
 
 ### 第 12 组 
+<br>
+<br>
+<br>
 
+<font size="4px">
+
+Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="noopener">Enl_Z & 职规 12 组</a> 
+
+</font>
 <!--s-->
 
 ## Roles
