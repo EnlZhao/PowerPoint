@@ -22,22 +22,6 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 </font>
 <!--s-->
 
-## Roles
-
-<!--v-->
-<!-- .slide: data-background="./img/CareerPre/whole.jpg" data-background-opacity="0.2"-->
-
-* 优柔寡断 · 领导 —— 戴安澜 | 戴总监
-
-* 高傲自大 · 领导 —— 肖嘉宇 | 肖副总
-
-* 冷若冰霜 · 同事 —— 刘宇骄 | 刘姐
-
-* 平易近人 · 同事 —— 姚飘逸 | 姚姐
-
-* 年轻识浅 · 新人 —— 赵 恒 | 小赵
-
-<!--s-->
 
 ## Background
 
@@ -53,6 +37,24 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 * 通过了解不同的人际关系处理方式，选择适合自己的方式，并不断学习和提高自己的沟通、协调和管理能力，我们才能在职场中建立起良好的人际关系，取得更多的成功和成就。
 
 </font>
+
+<!--s-->
+
+## Roles
+
+<!--v-->
+
+<!-- .slide: data-background="./img/CareerPre/whole.jpg" data-background-opacity="0.2"-->
+
+* 优柔寡断 · 领导 —— 戴安澜 | 戴总监
+
+* 高傲自大 · 领导 —— 肖嘉宇 | 肖副总
+
+* 冷若冰霜 · 同事 —— 刘宇骄 | 刘姐
+
+* 平易近人 · 同事 —— 姚飘逸 | 姚姐
+
+* 年轻识浅 · 新人 —— 赵 恒 | 小赵
 
 <!--v-->
 
