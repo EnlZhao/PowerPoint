@@ -26,7 +26,7 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 ## Background
 
 <!--v-->
-
+<!-- .slide: data-background-video="./mp3/background.mp3" --->
 <font size="6px" >
 
 * 在职场中，<u>人际关系</u>是至关重要的。
@@ -45,6 +45,8 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 <!--v-->
 
 <!-- .slide: data-background="./img/CareerPre/whole.jpg" data-background-opacity="0.2"-->
+<br>
+<br>
 
 * 优柔寡断 · 领导 —— 戴安澜 | 戴总监
 
@@ -55,6 +57,15 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 * 平易近人 · 同事 —— 姚飘逸 | 姚姐
 
 * 年轻识浅 · 新人 —— 赵 恒 | 小赵
+
+<br>
+<br>
+
+<div align="left">
+    ​<audio id="audio" controls="" preload="none">
+        <source src="./mp3/info.mp3">
+    </audio>
+</div>
 
 <!--s-->
 
@@ -105,7 +116,7 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 pat pat ······
 
 <!--v-->
-
+<!-- .slide: data-background-video="./mp3/role1final.mp3" --->
 <font size="6px">
 
 * 面对好相处、主动问询且提供帮助的同事时，要懂得接受ta的善意并且表达感谢。在职场中初来乍到，向他人寻求帮助在职场中是十分重要的</u>。寻求建议是一种高超的社交手段。在职场，无论一个人的性格特点如何，他们都希望别人真诚的向自己寻求建议，这有三层含义：“我”被认同：某一方面的能力和见识被尊重；“我”被信赖：关键时刻被认为值得被信赖；“我”很重要：给出建议且被采纳的价值满足感。
@@ -125,9 +136,17 @@ pat pat ······
 
 <!--v-->
 
-<!-- .slide: data-background="./gif/CareerPre/speechless.gif" data-background-opacity="0.3" data-background-size="90% auto" --->
+<!-- .slide: data-background="./gif/CareerPre/speechless.gif" data-background-opacity="0.3" data-background-size="90% auto"  --->
 
 刘姐内心 OS: 离我远点、离我远点、离我远点 ······
+​
+<audio id="audio" controls="" preload="none">
+    <source src="./mp3/role2.mp3">
+</audio>
+
+<audio id="audio" controls="" preload="none">
+    <source src="./mp3/role5.mp3">
+</audio>
 
 <!--s-->
 
@@ -154,7 +173,12 @@ Thirty minutes later ······
 
 肖副总内心 OS: 没想到啊，还懂网球，小伙子不赖，有前途······
 
+<audio id="audio" controls="" preload="none">
+    <source src="./mp3/role6.mp3">
+</audio>
+
 <!--v-->
+<!-- .slide: data-background-video="./mp3/role7.mp3" --->
 <font size="6px">
 
 * 与高傲自大的上司相处，首先要学会的就是 <u>恭维他们 ，对他们曾有的功绩要不厌其烦地免费宣传</u>
@@ -178,12 +202,12 @@ Thirty minutes later ······
 刘姐内心 OS: 效率还挺高······
 
 <!--v-->
+<!-- .slide: data-background-video="./mp3/role8.mp3" --->
 <font size="6px">
 
 * 这种看起来冷冰冰一脸严肃的同事，通常不喜欢没有意义的交流，追求<u>沟通效率</u>，和他们交流要<u>注意条理清晰，表达简洁</u>
 * 另外，他们往往注重隐私，要<u>注意合适的社交距离</u>，不要一下子“靠太近”，保持稳重的形象，注意礼貌和细节
 
-</font>
 <!--s-->
 
 ### Final Scenario
