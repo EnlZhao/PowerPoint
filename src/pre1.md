@@ -206,3 +206,8 @@ pat pat ······
 * 另外还要让上司认为这样的决定是他自己作出的，没有别人强迫自己
 
 </font>
+
+<!--s-->
+<!-- .slide: data-background="./gif/CareerPre/thanks.gif" data-background-opacity="0.1" data-background-size="100% auto" --->
+
+## 展示结束，感谢观赏
