@@ -47,15 +47,15 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 <!-- .slide: data-background="./img/CareerPre/whole.jpg" data-background-opacity="0.2"-->
 <br><br>
 
-* 优柔寡断 · 领导 —— 戴安澜 | 戴总监
+* 优柔寡断 · 领导 —— 戴 * * | 戴总监
 
-* 高傲自大 · 领导 —— 肖嘉宇 | 肖副总
+* 高傲自大 · 领导 —— 肖 * * | 肖副总
 
-* 冷若冰霜 · 同事 —— 刘宇骄 | 刘姐
+* 冷若冰霜 · 同事 —— 刘 * * | 刘姐
 
-* 平易近人 · 同事 —— 姚飘逸 | 姚姐
+* 平易近人 · 同事 —— 姚 * * | 姚姐
 
-* 年轻识浅 · 新人 —— 赵 恒 | 小赵
+* 年轻识浅 · 新人 —— 赵 * * | 小赵
 
 <br><br>
 
