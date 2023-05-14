@@ -76,9 +76,7 @@ Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="no
 <!--v-->
 <!-- .slide: data-background="./gif/CareerPre/working.gif" data-background-opacity="0.2" data-background-size="90% auto"-->
 
-
 放肆工作 ··· 放肆工作 ··· 放肆工作 ··· 放肆工作 ······
-
 
 <!--s-->
 
