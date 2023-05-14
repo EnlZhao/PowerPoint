@@ -17,7 +17,7 @@ verticalSeparator: <!--v-->
 
 <font size="4px">
 
-Copyright &copy; 2023 <a href="https://github.com/enl-z" target="_blank" rel="noopener">Enl_Z & 职规 12 组</a> 
+Copyright &copy; 2023 <a href="https://enl-z.cc" target="_blank" rel="noopener">Enl_Z & 职规 12 组</a> 
 
 </font>
 <!--s-->
